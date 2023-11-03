@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MusicPlayerApp</string>
+    <string name="track_name">Track name</string>
+    <string name="artist">Artist</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+
+    // Artist and Track name
+    <string name="skeler">Skeler</string>
+    <string name="tokyo">Tokyo</string>
+    <string name="lxst_cxntury">LXST Cxntury</string>
+    <string name="andromeda">Andromeda</string>
+    <string name="airshade">Airshade</string>
+    <string name="stay_close">Stay Close</string>
+    <string name="izzamuzzic">Izzamuzzic</string>
+    <string name="room_for_one">Room for One</string>
+    <string name="cd_img">img</string>
+    <string name="cd_img_btn">img_btn</string>
+</resources>
